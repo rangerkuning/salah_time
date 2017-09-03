@@ -15,6 +15,6 @@ let stOptions = {
 };
 ```
 
-![alt text](https://pasteboard.co/GIAeT1h.png "Screenshot")
+![alt text](https://cdn.pbrd.co/images/GIAeT1h.png "Screenshot")
 
 Not available at gnome extension yet. To use copy the project to `~/.local/share/gnome-shell` and activate from gnome tweak tool.
