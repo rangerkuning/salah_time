@@ -1,3 +1,7 @@
+# Discontinued ~
+
+There is more a better version here : https://extensions.gnome.org/extension/1344/azan/ or https://github.com/fahrinh/azan-gnome-shell-extension
+
 # Salah Time
 An extension for Gnome Shell. 
 Get international Salah (Islamic pray) times and notifications.
